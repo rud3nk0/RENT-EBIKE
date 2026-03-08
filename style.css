@@ -116,10 +116,10 @@
    object-fit: cover;
 }
 
-@media (min-width: 402px) {
+@media (min-width: 320px) {
    .container {
       display: block;
-      max-width: 402px;
+      max-width: 320px;
    }
 
    .product_img {
