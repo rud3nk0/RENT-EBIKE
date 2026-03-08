@@ -1,7 +1,3 @@
-.wrapper__order {
-   display: flex;
-}
-
 .products {
    display: flex; /* лёгкий контейнер, при необходимости меняйте */
    justify-content: center;
