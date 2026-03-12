@@ -227,4 +227,11 @@ header {
    .about__img {
       display: block;
    }
+
+   .card {
+      margin-left: 20px;
+      margin-top: 50px;
+      width: 500px;
+      height: 600px;
+   }
 }
