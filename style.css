@@ -277,4 +277,8 @@ header {
       width: 500px;
       height: 600px;
    }
+
+   #btn__gallery {
+      margin-left: 45px;
+   }
 }
