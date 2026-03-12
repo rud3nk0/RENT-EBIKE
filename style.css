@@ -2,6 +2,10 @@ header {
    width: 100%;
 }
 
+.color {
+   color: blue;
+}
+
 .products {
    display: flex; /* лёгкий контейнер, при необходимости меняйте */
    justify-content: center;
@@ -155,7 +159,13 @@ header {
       max-width: 1320px;
    }
 
-   .gallery {
+   .gallery__allert {
+      font-size: 20px;
+      color: grey;
+      margin-left: 50px;
+   }
+
+   .gallery__card {
       display: flex;
       justify-content: space-between;
    }
