@@ -41,6 +41,14 @@ header {
    transition: opacity 0.25s ease-in-out;
 }
 
+#footer__ref {
+   color: grey !important;
+}
+
+#ref {
+   color: grey !important;
+}
+
 .product__info {
    margin-top: 20px;
 }
@@ -151,6 +159,31 @@ header {
       margin-top: 50px;
       width: 200px;
       height: 300px;
+   }
+
+   .gallery__allert {
+      margin-top: 10px;
+      margin-left: 20px;
+      color: grey;
+   }
+
+   #btn__gallery {
+      margin-left: 35px;
+   }
+
+   #btn__about {
+      margin-top: 20px;
+   }
+
+   .btn {
+      margin-left: 80px;
+      padding-bottom: 20px;
+   }
+
+   .footer__nav {
+      padding: 20px;
+      display: flex;
+      justify-content: space-between;
    }
 }
 
